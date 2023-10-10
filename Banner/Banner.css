@@ -1,0 +1,9 @@
+.banner {
+    background-color: #182629;
+    text-align: center;
+}
+.banner img {
+    height: 1000px;
+    width: 1700px;
+    margin-bottom: 0px;
+}

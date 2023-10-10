@@ -1,0 +1,47 @@
+.container {
+  width: 80%;
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #0F191B;
+  padding: 100px;
+  border: 1px solid #363636;
+  border-radius: 20px;
+  color: white;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 15px;
+    box-sizing: border-box; 
+    background-color: #363636;
+  }
+  
+  input[type=submit] {
+    width: 40%;
+    background-color: #363636;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #818448;
+  }
+
+  
+  div {
+    border-radius: 5px;
+    background-color: #182629;
+  }
+
+  .Sign{
+    font-size: 25px;
+    padding-left: 110px;
+  }
